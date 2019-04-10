@@ -26,3 +26,6 @@ Replace the first row with your contribution.
 |  7   | https://github.com/yampelo/beagle/issues/15    | issue on project we're contributing to this semester    |   I suggested that they add a feature that my group is looking to add    |
 |     |     |     |      |
 |     |     |     |      |
+|  8   | https://github.com/nyu-ossd-s19/beagle/pull/4    | pull request for documentation edits    |
+|     |     |     |      |
+|     |     |     |      |
