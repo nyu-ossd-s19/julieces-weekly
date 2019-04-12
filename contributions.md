@@ -24,3 +24,4 @@ Replace the first row with your contribution.
 |  7   | https://github.com/yampelo/beagle/issues/15    | issue on project we're contributing to this semester    |   I suggested that they add a feature that my group is looking to add    |
 |  8   | https://github.com/nyu-ossd-s19/beagle/pull/4    | pull request for documentation edits    | made some grammatical edits to the documentation |
 |  8  | https://github.com/nyu-ossd-s19/wiki/wiki/Beagle  | created wiki  |  used to track our contributions to our project  |
+|  8  | https://en.wikipedia.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Julieces&namespace=&tagfilter=&start=&end=  |  wikipedia  |  added new information and links to the wikipedia article about the fable of the scorpion and the frog |
